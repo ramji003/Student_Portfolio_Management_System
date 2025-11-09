@@ -54,20 +54,6 @@ student-portfolio/
 
 ---
 
-## UI Screenshots (Examples)
-
-> **Add your UI screenshots here when available!**  
-> Below are real reference images you can include as links or screenshots.
-
-### Student Registration Form
-
-![Sample Registration Form](https://www.jotform.com/form-templates/student-registration-form)
-
-### Student Profile/Dashboard Example
-
-![Student Dashboard](https://dribbble.com/tags/student_dashboard)
-
----
 
 ## UI Layouts (ASCII Example)
 
