@@ -115,7 +115,7 @@ student-portfolio/
 
 ## Contributors
 
-- Your Name
+- Ramji Agrawal
 
 ---
 
