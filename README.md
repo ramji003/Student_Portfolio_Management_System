@@ -1,4 +1,3 @@
-```markdown
 # Student Portfolio Management System
 
 ## Overview
@@ -139,4 +138,3 @@ student-portfolio/
 This project is for academic/demo purposes only.
 
 ---
-```
